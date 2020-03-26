@@ -22,7 +22,7 @@
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="match_parent"
-        android:layout_height="665dp"
+        android:layout_height="750dp"
         android:background="#FFFFFF">
 
         <LinearLayout
@@ -33,7 +33,7 @@
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rc"
                 android:layout_width="match_parent"
-                android:layout_height="687dp"
+                android:layout_height="665dp"
                 android:layout_marginTop="0dp"
                 android:textAlignment="center" />
         </LinearLayout>

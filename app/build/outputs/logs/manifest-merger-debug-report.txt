@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\a73c3974fa47bb64187237bb2a2898dc\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\c93a5e028f831347369c4d3b98759aaf\core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\c4ef5ca596413fc5b60e6754465386ae\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -27,20 +27,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ringgo\.gradle\c
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\0a9b612aa422320e030825edc18a2ab1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\1004b84c1a71b13cd57fe025e0cc7af9\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\de0d15be3df3800b00daf51b84bb8611\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:2:11-69
@@ -49,7 +49,7 @@ ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
 		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:7:5-23:19
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:7:5-24:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\c4ef5ca596413fc5b60e6754465386ae\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\c4ef5ca596413fc5b60e6754465386ae\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.2.0] C:\Users\Ringgo\.gradle\caches\transforms-2\files-2.1\61e20914109ec526091e4c10c9a26064\core-1.2.0\AndroidManifest.xml:24:5-89
@@ -70,26 +70,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ri
 		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:14:9-44
 activity#com.example.tugas_uts.MainActivity
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.tugas_uts.FakultasDetailActivity
-ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:21:9-22:67
+ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:22:9-23:67
 	android:parentActivityName
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:22:13-55
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:23:13-55
 	android:name
-		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:21:19-57
+		ADDED from E:\tugas_uts\app\src\main\AndroidManifest.xml:22:19-57
 uses-sdk
 INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\tugas_uts\app\src\main\AndroidManifest.xml
