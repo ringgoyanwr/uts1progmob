@@ -25,9 +25,8 @@ class fakultasadapter (val fakultasItemList : List<FakultasData>, val clickListe
 
     class PartViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         fun bind(fakultas: FakultasData, clickListener: (FakultasData) -> Unit) {
-
             itemView.textView4.text = fakultas.fakultas.toString()
-            itemView.imageView.setImageResource(fakultas.foto)
+            itemView.imageView.setImageResource(R.drawable.logo)
 
             itemView.setOnClickListener { clickListener(fakultas) }
         }

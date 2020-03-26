@@ -88,20 +88,20 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
-        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\abc_tooltip_enter.xml"
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -114,6 +114,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -264,6 +268,10 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_faperta.JPG.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\drawable\\faperta.JPG"
+    },
+    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\61e20914109ec526091e4c10c9a26064\\core-1.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
     },
@@ -304,12 +312,12 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\61e20914109ec526091e4c10c9a26064\\core-1.2.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -318,6 +326,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
@@ -442,6 +454,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\61e20914109ec526091e4c10c9a26064\\core-1.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -676,6 +692,10 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ft.JPG.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\drawable\\ft.JPG"
+    },
+    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -848,6 +868,10 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml"
     },
@@ -898,6 +922,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -978,6 +1006,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1098,6 +1130,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fad.JPG.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\drawable\\fad.JPG"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1242,6 +1278,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fh.jpg.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\drawable\\fh.jpg"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
@@ -1448,6 +1488,10 @@
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fasilkom.JPG.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\drawable\\fasilkom.JPG"
+    },
+    {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -1462,6 +1506,10 @@
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Ringgo\\.gradle\\caches\\transforms-2\\files-2.1\\a73c3974fa47bb64187237bb2a2898dc\\appcompat-1.1.0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\layout_web_view.xml.flat",
+        "source": "E:\\tugas_uts\\app\\src\\main\\res\\layout\\web_view.xml"
     },
     {
         "merged": "E:\\tugas_uts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
